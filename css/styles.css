@@ -37,10 +37,12 @@ p{
   height: 100%;
   padding-top: 50px;
   border: 0;
+  width:100%;
 
 }
 .middle-container {
   text-align: center;
+  width:100%;
 
 }
 .bottom-container{
@@ -48,6 +50,7 @@ p{
   font-size: 30px;
   font-family: sans-serif;
   padding: 10px 0 2px 0;
+  width:100%;
 }
 .skill-row{
   width: 50%;
